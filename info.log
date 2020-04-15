@@ -1,0 +1,655 @@
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T08:48:39.980Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T08:48:40.188Z"}
+{"id":9,"title":"1","isbn":"53589","publishYear":"1970-01-01","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T08:48:44.964Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T08:59:47.924Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T08:59:48.573Z"}
+{"id":10,"title":"1","isbn":"534589","publishYear":"1970-01-01","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T09:00:12.030Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T09:00:47.686Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T09:00:48.076Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T09:20:56.422Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T09:20:57.654Z"}
+{"id":11,"title":"1","isbn":"532589","publishYear":"1970-01-01","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T09:21:21.560Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T09:22:20.034Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T09:22:20.395Z"}
+{"id":12,"title":"1","isbn":"5589","publishYear":"1970-01-01","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T09:22:34.641Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T09:31:21.271Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T09:31:21.508Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T10:00:37.168Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T10:00:38.463Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T10:24:41.997Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T10:24:42.880Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T11:48:55.054Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T11:48:55.544Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T12:27:53.616Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T12:27:53.936Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T12:28:21.070Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T12:28:21.410Z"}
+{"id":13,"title":"1","isbn":"55489","publishYear":"2020-04-09","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T12:30:58.087Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T12:35:16.985Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T12:35:17.689Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T12:37:39.423Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T12:37:39.795Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:46:14.601Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:46:15.906Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:47:21.563Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:47:22.024Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:49:04.476Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:49:04.799Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:51:33.420Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:51:33.737Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:55:11.589Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:55:11.765Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:55:37.643Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:55:38.061Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T14:55:56.754Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T14:55:56.940Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:01:25.923Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:01:26.210Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:01:28.450Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:01:29.726Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:01:29.886Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:01:35.464Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:01:35.717Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:06:32.378Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:06:32.541Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:07:35.726Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:07:35.896Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:08:12.206Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:08:12.380Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:09:30.284Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:09:30.545Z"}
+{"id":14,"title":"1","isbn":"565489","publishYear":"2020-04-09","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T15:09:37.542Z"}
+{"id":15,"title":"1","isbn":"568489","publishYear":"2020-04-09","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T15:10:38.333Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:11:24.357Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:11:24.510Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:18:31.560Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:18:32.656Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:19:20.138Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:19:20.334Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T15:20:02.131Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T15:20:02.300Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:17:52.576Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:17:53.788Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:27:05.782Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:27:06.242Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:35:18.244Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:35:19.579Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:40:27.976Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:40:28.314Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:41:15.230Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:41:15.626Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:44:10.448Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:44:10.928Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:44:32.064Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:44:32.732Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:47:20.694Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:47:21.075Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:53:04.461Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:53:05.106Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:55:49.240Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:55:49.567Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T16:58:46.426Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T16:58:49.087Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:11:23.648Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:11:24.042Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:12:25.026Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:12:25.375Z"}
+{"id":16,"title":"1","isbn":"1000","publishYear":"2020-04-04","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T17:17:57.903Z"}
+{"id":17,"title":"1","isbn":"10000","publishYear":"2000-12-31","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T17:22:28.659Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:37:17.170Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:37:17.864Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:44:28.568Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:44:28.928Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:44:51.546Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:44:52.083Z"}
+{"id":18,"title":"1","isbn":"100200","publishYear":"2000-12-31","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T17:45:15.459Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:50:40.383Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:50:40.665Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:52:42.778Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:52:42.986Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:57:23.733Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:57:24.098Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:57:52.292Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:57:52.567Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T17:57:55.177Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T17:57:55.346Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:00:05.246Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:00:05.396Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:10:52.328Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:10:52.638Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:12:40.077Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:12:40.699Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:13:45.093Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:13:45.364Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:17:00.758Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:17:01.042Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:22:06.517Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:22:06.862Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:28:50.741Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:28:50.947Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:37:04.388Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:37:04.950Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:44:08.037Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:44:08.257Z"}
+{"id":19,"title":"1","isbn":"200200","publishYear":"2020-04-04","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T18:44:20.800Z"}
+{"id":20,"title":"1","isbn":"210200","publishYear":"2000-12-31","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T18:46:28.163Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:47:14.908Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:47:15.101Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:49:35.535Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:49:36.137Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T18:52:43.076Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T18:52:43.335Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T19:33:43.332Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T19:33:43.584Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T19:37:18.916Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T19:37:19.159Z"}
+{"id":21,"title":"1","isbn":"2101200","publishYear":"2000-12-31","coverPrice":200,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T19:37:44.906Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T19:40:26.143Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T19:40:26.351Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T19:41:58.808Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T19:41:58.965Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T19:43:19.008Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T19:43:19.197Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T20:41:58.890Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T20:41:59.820Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T20:52:33.232Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T20:52:34.366Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:04:56.517Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:04:57.302Z"}
+{"id":22,"title":"1","isbn":"101200","publishYear":"2000-12-31","coverPrice":1,"quantity":10,"status":"active","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T21:30:11.526Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:32:26.364Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:32:26.938Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:34:30.022Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:34:30.273Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:40:01.122Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:40:01.367Z"}
+{"id":23,"title":"guy","isbn":"10125","publishYear":"2000-12-31","coverPrice":1,"quantity":10,"status":"1","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T21:40:11.989Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:47:17.591Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:47:17.803Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:47:29.864Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:47:30.039Z"}
+{"id":24,"title":"guy","isbn":"101425","publishYear":"2000-12-31","coverPrice":1,"quantity":1,"status":"1","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T21:49:22.709Z"}
+{"id":25,"title":"1","isbn":"10145","publishYear":"2000-12-31","coverPrice":1,"quantity":1,"status":"1","updatedAt":"2020-04-09","createdAt":"2020-04-09","level":"info","message":"info","timestamp":"2020-04-09T21:50:14.603Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T21:51:31.640Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T21:51:31.829Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:00:38.360Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:00:38.784Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:02:02.611Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:02:03.218Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:02:32.754Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:02:32.933Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:04:10.953Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:04:11.244Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:05:40.739Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:05:41.004Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:05:53.869Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:05:54.024Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:06:22.926Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:06:23.078Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:06:32.016Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:06:32.188Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:13:40.713Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:13:40.948Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:15:05.618Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:15:05.787Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:30:01.208Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:30:01.460Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-09T22:34:20.413Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-09T22:34:20.583Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T12:16:51.250Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T12:16:52.784Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T12:54:08.847Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T12:54:09.215Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T12:56:41.083Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T12:56:41.414Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T12:57:45.721Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T12:57:46.077Z"}
+{"id":26,"title":"Super Story","isbn":"101345","publishYear":"1970-01-01","coverPrice":150,"quantity":10,"status":"active","updatedAt":"2020-04-10","createdAt":"2020-04-10","level":"info","message":"info","timestamp":"2020-04-10T12:58:51.314Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T13:02:11.244Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T13:02:11.404Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T13:02:51.882Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T13:02:52.052Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T13:03:27.096Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T13:03:27.245Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T13:04:55.593Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T13:04:55.765Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T13:05:53.917Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T13:05:54.101Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:04:38.183Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:04:39.125Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:10:46.985Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:10:47.431Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:17:33.309Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:17:33.885Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:18:24.936Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:18:25.206Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:24:15.292Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:24:17.081Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:25:14.970Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:25:15.343Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:30:43.306Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:30:43.600Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:33:15.806Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:33:16.209Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:41:51.250Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:41:51.581Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:42:41.476Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:42:41.731Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T14:52:08.714Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T14:52:09.310Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:04:56.824Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:04:57.401Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:15:18.253Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:15:19.053Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:16:22.509Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:16:22.836Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:16:58.859Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:16:59.173Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:19:12.616Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:19:13.254Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:23:33.240Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:23:33.507Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:55:28.726Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:55:29.221Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:57:11.302Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:57:11.744Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T15:58:39.291Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T15:58:39.594Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:00:47.613Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:00:47.906Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:01:43.625Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:01:43.834Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:06:11.317Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:06:11.532Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:08:24.266Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:08:24.751Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:09:10.486Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:09:10.751Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:10:09.479Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:10:09.682Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:16:41.300Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:16:41.477Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:18:10.560Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:18:10.770Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:32:00.291Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:32:00.911Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:42:32.825Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:42:33.158Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T16:58:38.659Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T16:58:39.042Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:00:04.221Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:00:04.556Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:10:42.330Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:10:42.823Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:11:10.389Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:11:10.692Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:13:16.376Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:13:17.305Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:20:39.050Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:20:39.954Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:21:00.219Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:21:00.537Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:22:50.254Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:22:50.933Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:23:48.712Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:23:49.047Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:25:09.920Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:25:10.436Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:32:44.595Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:32:45.184Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:32:58.041Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:32:58.417Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:33:34.257Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:33:34.625Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T17:34:55.926Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T17:34:56.354Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T18:36:37.058Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T18:36:38.104Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T18:40:10.404Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T18:40:10.631Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T18:55:06.441Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T18:55:07.679Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T18:56:25.560Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T18:56:26.021Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:05:16.393Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:05:20.554Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:06:40.978Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:06:41.616Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:21:07.539Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:21:13.590Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:23:53.858Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:23:54.031Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:24:45.182Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:24:45.666Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:28:49.902Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:28:50.748Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:34:36.647Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:34:37.483Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:36:21.886Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:36:22.129Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:43:12.034Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:43:18.074Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:43:46.761Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:43:47.148Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:45:51.202Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:45:51.460Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:49:04.147Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:49:04.386Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:49:12.153Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:49:12.358Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:49:34.487Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:49:34.741Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:51:39.398Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:51:42.709Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:52:11.642Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:52:11.924Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:53:56.084Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:53:56.285Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:56:26.028Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:56:26.223Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T19:59:18.536Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T19:59:18.714Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:07:56.032Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:07:56.540Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:08:32.082Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:08:32.301Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:34:11.373Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:34:11.691Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:34:35.919Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:34:36.517Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:34:57.080Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:34:57.855Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:38:03.924Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:38:04.084Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:41:02.875Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:41:03.557Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:44:42.146Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:44:42.494Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:46:26.457Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:46:26.704Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:48:59.774Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:49:00.068Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:51:19.005Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:51:19.457Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-10T20:52:29.399Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-10T20:52:29.816Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T08:28:38.629Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T08:28:41.812Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T08:28:42.405Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T08:29:36.373Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T08:29:37.255Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T08:42:27.517Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T08:42:29.642Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T08:48:29.933Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T08:48:30.263Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T08:49:02.855Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T08:49:03.195Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:02:16.578Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:02:16.920Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:11:24.436Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:11:25.259Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:20:55.366Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:20:56.130Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:21:47.452Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:21:47.797Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:25:00.478Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:25:01.066Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:25:17.080Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:25:17.501Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:31:38.582Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:31:40.254Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:55:58.506Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:55:59.219Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:57:46.388Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:57:46.990Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T09:59:59.110Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T09:59:59.646Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:02:10.334Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:02:10.728Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:02:42.962Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:02:43.404Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:05:19.641Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:05:20.102Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:08:10.233Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:08:10.622Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:08:19.516Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:08:19.883Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:12:04.905Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:12:05.450Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:16:42.072Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:16:42.451Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:25:28.651Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:25:29.985Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:27:21.926Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:27:22.590Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:28:09.583Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:28:10.150Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:29:54.934Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:29:55.313Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:31:31.121Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:31:32.618Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:32:07.714Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:32:08.225Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:34:09.737Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:34:10.350Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:34:28.267Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:34:28.759Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T10:59:12.997Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T10:59:14.368Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:00:04.924Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:00:06.659Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:11:30.192Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:11:31.125Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:12:54.194Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:12:54.564Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:14:57.882Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:14:58.299Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:15:24.056Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:15:24.453Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:15:36.025Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:15:36.361Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:16:36.775Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:16:37.250Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:18:52.989Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:18:53.464Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:19:56.209Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:19:56.547Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:20:42.764Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:20:43.126Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:21:26.871Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:21:27.229Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:28:40.706Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:28:41.579Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:38:28.565Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:38:29.701Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:40:33.660Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:40:33.964Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:52:53.453Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T11:52:55.190Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T11:52:56.062Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T12:03:29.141Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T12:03:29.958Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T12:03:43.060Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T12:03:43.433Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T12:09:14.216Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T12:09:15.024Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T12:11:33.798Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T12:11:34.931Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T12:49:00.051Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T12:49:01.372Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T12:55:01.845Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T12:55:02.353Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T17:46:59.219Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T17:47:00.838Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T18:02:43.161Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T18:02:43.741Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T18:14:46.679Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T18:14:49.958Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T18:14:50.144Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T18:16:21.251Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T18:16:21.593Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-11T18:17:52.794Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-11T18:17:53.103Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T16:24:33.233Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T16:24:34.258Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T16:26:14.067Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T16:26:14.476Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T16:26:28.492Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T16:26:29.036Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T16:36:55.792Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T16:36:56.543Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T16:38:34.593Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T16:38:37.958Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:09:55.674Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:09:56.530Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:10:12.957Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:10:13.705Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:14:29.443Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:14:30.012Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:16:40.308Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:16:40.756Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:18:31.499Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:18:31.931Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:21:53.663Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:21:54.662Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:22:24.072Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:22:25.132Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:28:51.325Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:28:51.764Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T17:29:20.331Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T17:29:20.777Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T19:28:30.459Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T19:28:36.592Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T19:31:35.183Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T19:31:36.710Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T19:46:00.950Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T19:46:01.997Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T19:47:43.759Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T19:47:44.100Z"}
+{"id":1,"title":"Super Story","isbn":"101345","publishYear":"1970-01-01","coverPrice":150,"quantity":10,"status":"active","updatedAt":"2020-04-12","createdAt":"2020-04-12","level":"info","message":"info","timestamp":"2020-04-12T19:47:59.791Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T19:55:58.309Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T19:55:59.405Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:10:15.986Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:10:16.792Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:15:22.111Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:15:22.426Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:20:22.979Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:20:23.716Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:23:56.924Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:23:57.241Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:25:13.740Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:25:14.210Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:31:52.555Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:31:53.125Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:43:47.731Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:43:48.111Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:44:04.916Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:44:05.571Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:44:09.249Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:44:09.403Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:45:07.039Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:45:07.708Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:45:21.266Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:45:21.539Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:49:52.588Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:49:53.065Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:56:56.119Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:56:56.480Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:57:20.363Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:57:20.624Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T20:59:52.285Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T20:59:52.729Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T21:21:21.300Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T21:21:22.068Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T21:25:45.435Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T21:25:45.622Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-12T21:26:34.246Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-12T21:26:34.630Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T15:15:10.893Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T15:15:11.945Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T15:22:55.198Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T15:22:55.761Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T15:28:00.327Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T15:28:00.810Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T15:39:06.490Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T15:39:09.591Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T15:39:20.469Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T15:39:20.855Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T15:39:26.869Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T15:39:27.639Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T16:11:29.183Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T16:11:30.672Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-13T16:26:50.740Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-13T16:26:52.136Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T16:54:28.971Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T16:54:29.988Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T17:02:40.148Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T17:02:41.391Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T17:20:23.146Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T17:20:24.102Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:37:40.643Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:37:45.084Z"}
+{"id":1,"title":"Super Story","isbn":"101345","publishYear":"1970-01-01T00:00:00.001Z","coverPrice":150,"quantity":10,"status":"active","updatedAt":"2020-04-14T18:40:55.374Z","createdAt":"2020-04-14T18:40:55.374Z","level":"info","message":"info","timestamp":"2020-04-14T18:40:55.939Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:44:43.817Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:44:44.097Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:45:21.144Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:45:21.533Z"}
+{"level":"info","message":"info","timestamp":"2020-04-14T18:45:36.012Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:46:59.281Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:46:59.553Z"}
+{"level":"info","message":"info","timestamp":"2020-04-14T18:47:13.764Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:49:20.698Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:49:21.236Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:51:35.962Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:51:36.254Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:52:35.966Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:52:36.502Z"}
+{"id":5,"title":"Secret of the sand","isbn":"201345","publishYear":"1970-01-01T00:00:00.001Z","coverPrice":150,"quantity":10,"status":"active","updatedAt":"2020-04-14T18:57:33.414Z","createdAt":"2020-04-14T18:57:33.414Z","level":"info","message":"info","timestamp":"2020-04-14T18:57:33.540Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T18:58:30.452Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T18:58:31.935Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:03:52.295Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:03:53.170Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:06:56.700Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:06:57.316Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:16:37.406Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:16:37.817Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:17:31.875Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:17:32.173Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:19:17.417Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:19:17.672Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:20:15.422Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:20:15.790Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:22:13.991Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:22:14.179Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:34:01.451Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:34:02.126Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:40:02.074Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:40:02.539Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:42:02.281Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:42:02.563Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T19:42:49.149Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T19:42:49.429Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:01:59.571Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:02:01.742Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:24:43.138Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:24:44.358Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:25:40.529Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:25:40.759Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:30:10.671Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:30:10.966Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:30:55.787Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:30:56.518Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:31:40.409Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:31:40.786Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:32:02.153Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:32:02.555Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:33:59.042Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:33:59.369Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:34:22.354Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:34:22.835Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:38:33.438Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:38:34.284Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T21:58:44.755Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T21:58:45.459Z"}
+{"level":"info","message":"Server running on port 4000","timestamp":"2020-04-14T22:20:53.798Z"}
+{"level":"info","message":"Database connection has been established successfully","timestamp":"2020-04-14T22:20:55.189Z"}

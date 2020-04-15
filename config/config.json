@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Dolapo@0980",
+    "database": "library",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Dolapo@0980",
+    "database": "library",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Dolapo@0980",
+    "database": "library",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}

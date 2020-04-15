@@ -1,0 +1,22 @@
+{
+  "name": "libraryapi",
+  "version": "1.0.0",
+  "description": "Create a library of books to be managed by a librarian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adedolapo Adaranijo",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "nodemon": "^2.0.3",
+    "pg": "^8.0.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.5",
+    "sequelize-cli": "^5.5.1",
+    "winston": "^3.2.1"
+  }
+}
